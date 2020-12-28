@@ -18,17 +18,17 @@ async function askquestions() {
     {
       type: "input",
       name: "name",
-      message: "What the employee's name?"
+      message: "What is the employee's name?"
     },
     {
       type: "input",
       name: "id",
-      message: "What the employee's id?"
+      message: "What is the employee's id?"
     },
     {
       type: "input",
       name: "email",
-      message: "What the employee's email address?"
+      message: "What is the employee's email address?"
     },
     {
       type: "list",
