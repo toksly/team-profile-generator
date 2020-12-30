@@ -5,7 +5,7 @@ The name of this application is <i>team-profile-genetator</i> it is a Node.js co
 <strong>Image</strong>
 ![](images/screen shot.png)
 <strong>Description</strong>
-This application uses a Node.js command line app to generate an HTML webpage that shows the informatiom of each employee in a software engeneering team. This app also allows the user to write tests for each part of the code, and ensures that the codes pass all unit tests. Here is the demo link
+This application uses a Node.js command line app to generate an HTML webpage that shows the informatiom of each employee in a software engeneering team. This app also allows the user to write tests for each part of the code, and ensures that the codes pass all unit tests. Here is the demo link https://drive.google.com/file/d/1N6-bYcO4RcIxnkkIR9uHuPLDui6GxUOf/view
 
 <strong>Technology used</strong>
 In building this app, I used HTML and CSS and Javascript.
